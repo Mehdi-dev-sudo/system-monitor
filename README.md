@@ -19,7 +19,7 @@ A lightweight, zero-dependency Bash script for real-time system monitoring with 
 ---
 
 ## Quick Start
-```bash
+bash
 # Download
 curl -O https://raw.githubusercontent.com/yourusername/system-monitor/main/system_monitor.sh
 
